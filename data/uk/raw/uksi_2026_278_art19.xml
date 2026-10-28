@@ -1,0 +1,319 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/uksi/2026/278/made" IdURI="http://www.legislation.gov.uk/id/uksi/2026/278" NumberOfProvisions="35" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="2.0"><ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+					<dc:identifier>http://www.legislation.gov.uk/uksi/2026/278/article/19/made</dc:identifier><dc:title>The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2026</dc:title><dc:language>en</dc:language><dc:publisher>King's Printer of Acts of Parliament</dc:publisher><dc:modified>2026-03-11</dc:modified><dc:subject scheme="SIheading">CLIMATE CHANGE</dc:subject>
+					<dc:description>The United Kingdom Emissions Trading Scheme (the “UK ETS”) was established by the Greenhouse Gas Emissions Trading Scheme Order 2020 (S.I. 2020/1265). The UK ETS runs for 10 “scheme years”, which is split into two “allocation periods” (the 2021-2025 allocation period and 2027-2030 allocation period) and one standalone scheme year (the 2026 scheme year). Operators of certain industrial installations are required to monitor, submit verified reports on, and surrender “allowances” equivalent to, their greenhouse gas emissions each scheme year. Allowances (which are tradable) are held in accounts in the UK ETS registry, and there is a cap on the number of allowances that may be created. Allowances are sold at auction, but some operators of installations receive an allocation of allowances free of charge (“free allocation”) for each scheme year.</dc:description>
+					<atom:link rel="self" href="http://www.legislation.gov.uk/uksi/2026/278/article/19/made/data.xml" type="application/xml"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/uksi/2026/278/resources" title="More Resources"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/impacts" href="http://www.legislation.gov.uk/uksi/2026/278/impacts" title="Impact Assessments"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum" href="http://www.legislation.gov.uk/uksi/2026/278/memorandum" title="Explanatory Memorandum"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/memorandum/toc" href="http://www.legislation.gov.uk/uksi/2026/278/memorandum/contents" title="Explanatory Memorandum Table of Contents"/>
+					
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/uksi/2026/278/made" title="whole act"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/uksi/2026/278/introduction/made" title="introduction"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/uksi/2026/278/signature/made" title="signature"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/note" href="http://www.legislation.gov.uk/uksi/2026/278/note/made" title="note"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/uksi/2026/278/body/made" title="body"/>
+					
+					
+										
+					
+					
+					
+					<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/uksi/2026/278/article/19/made/data.rdf" title="RDF/XML"/><atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/uksi/2026/278/article/19/made/data.akn" title="AKN"/><atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/uksi/2026/278/article/19/made/data.xht" title="HTML snippet"/><atom:link rel="alternate" type="text/html" href="http://www.legislation.gov.uk/uksi/2026/278/article/19/made/data.htm" title="Website (XHTML) Default View"/><atom:link rel="alternate" type="text/csv" href="http://www.legislation.gov.uk/uksi/2026/278/article/19/made/data.csv" title="CSV"/><atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/uksi/2026/278/article/19/made/data.pdf" title="PDF"/>
+					<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/uksi/2026/278/article/19/made/data.html" title="HTML5 snippet"/>
+
+					
+					<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/uksi/2026/278/contents/made" title="Table of Contents"/>
+					
+					
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/supersedes" href="http://www.legislation.gov.uk/id/ukdsi/2026/9780348277654" title="The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2026"/>
+					<atom:link rel="up" href="http://www.legislation.gov.uk/uksi/2026/278/made" title="Entire legislation"/><atom:link rel="prev" href="http://www.legislation.gov.uk/uksi/2026/278/article/18/made" title="Provision; Article 18"/><atom:link rel="prevInForce" href="http://www.legislation.gov.uk/uksi/2026/278/article/18/made" title="Provision; Article 18"/><atom:link rel="next" href="http://www.legislation.gov.uk/uksi/2026/278/article/20/made" title="Provision; Article 20"/><atom:link rel="nextInForce" href="http://www.legislation.gov.uk/uksi/2026/278/article/20/made" title="Provision; Article 20"/>
+					<ukm:SecondaryMetadata><ukm:DocumentClassification>
+<ukm:DocumentCategory Value="secondary"/>
+<ukm:DocumentMainType Value="UnitedKingdomStatutoryInstrument"/>
+<ukm:DocumentStatus Value="final"/>
+<ukm:DocumentMinorType Value="order"/>
+</ukm:DocumentClassification><ukm:Year Value="2026"/><ukm:Number Value="278"/><ukm:Made Date="2026-03-10"/><ukm:ISBN Value="9780348281019"/></ukm:SecondaryMetadata>
+					<ukm:Supersedes URI="http://www.legislation.gov.uk/id/ukdsi/2026/9780348277654"><dc:title>The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2026</dc:title><ukm:DocumentMainType Value="UnitedKingdomDraftStatutoryInstrument"/><ukm:Year Value="2026"/><ukm:ISBN Value="9780348277654"/></ukm:Supersedes>
+
+                    
+									<ukm:Notes><ukm:Note IdURI="http://www.legislation.gov.uk/id/uksi/2026/278/notes"/><ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/uksi/2026/278/pdfs/uksiem_20260278_en_001.pdf" Date="2026-03-11" Title="UK Explanatory Memorandum" Size="72055"/></ukm:Alternatives>       
+								</ukm:Notes> 
+					<ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/uksi/2026/278/pdfs/uksi_20260278_en.pdf" Date="2026-03-11" Size="334950" Print="true"/></ukm:Alternatives>
+					<ukm:ImpactAssessments>
+									
+									<ukm:ImpactAssessment URI="http://www.legislation.gov.uk/ukia/2025/230/pdfs/ukia_20250230_en.pdf" Date="2026-04-21" Title="The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2026" Stage="Final" Department="Department for Energy Security and Net Zero" Year="2025" Number="230" Size="2421245"/>
+								</ukm:ImpactAssessments>
+					<ukm:Statistics>
+									<ukm:TotalParagraphs Value="35"/>
+									<ukm:BodyParagraphs Value="35"/>
+									<ukm:ScheduleParagraphs Value="0"/>
+									<ukm:AttachmentParagraphs Value="0"/>
+									<ukm:TotalImages Value="0"/>
+								</ukm:Statistics>
+				</ukm:Metadata><Secondary><Body DocumentURI="http://www.legislation.gov.uk/uksi/2026/278/body/made" IdURI="http://www.legislation.gov.uk/id/uksi/2026/278/body" NumberOfProvisions="35"><Part DocumentURI="http://www.legislation.gov.uk/uksi/2026/278/part/3/made" IdURI="http://www.legislation.gov.uk/id/uksi/2026/278/part/3" NumberOfProvisions="20" id="part-3"><Number>Part 3</Number><Title>Free Allocation Regulation amended</Title><P1group><Title>Article 16 amended (preliminary allocation at installation level for incumbent installations)</Title><P1 DocumentURI="http://www.legislation.gov.uk/uksi/2026/278/article/19/made" IdURI="http://www.legislation.gov.uk/id/uksi/2026/278/article/19" id="article-19">
+<Pnumber>19</Pnumber>
+<P1para>
+<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2026/278/article/19/1/made" IdURI="http://www.legislation.gov.uk/id/uksi/2026/278/article/19/1" id="article-19-1">
+<Pnumber>1</Pnumber>
+<P2para>
+<Text>Article 16 is amended as follows.</Text>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2026/278/article/19/2/made" IdURI="http://www.legislation.gov.uk/id/uksi/2026/278/article/19/2" id="article-19-2">
+<Pnumber>2</Pnumber>
+<P2para>
+<Text>In paragraph 1(b) after <InlineAmendment>“the regulator must”</InlineAmendment> insert <InlineAmendment><InlineAmendment>“, subject to paragraph 1a,”</InlineAmendment></InlineAmendment>.</Text>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2026/278/article/19/3/made" IdURI="http://www.legislation.gov.uk/id/uksi/2026/278/article/19/3" id="article-19-3">
+<Pnumber>3</Pnumber>
+<P2para>
+<Text>After paragraph 1 insert—</Text>
+<BlockAmendment Context="main" Format="double" TargetClass="euretained" TargetSubClass="unknown">
+<P2>
+<Pnumber PuncBefore="" PuncAfter=".">1a</Pnumber>
+<P2para>
+<Text>Where the benchmarks for the 2028, 2029 and 2030 scheme years have not been adopted under paragraph 13(b)(ii) on or before 30 September 2026, the regulator must:</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>calculate the preliminary annual number of allowances to be allocated in respect of the installation for the 2027 scheme year; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>no earlier than 1 October 2027, calculate the preliminary annual number of allowances to be allocated in respect of the installation for the 2028, 2029 and 2030 scheme years.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2026/278/article/19/4/made" IdURI="http://www.legislation.gov.uk/id/uksi/2026/278/article/19/4" id="article-19-4">
+<Pnumber>4</Pnumber>
+<P2para>
+<Text>In points (a) to (d) of paragraph 2—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2026/278/article/19/4/a/made" IdURI="http://www.legislation.gov.uk/id/uksi/2026/278/article/19/4/a" id="article-19-4-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>after <InlineAmendment>“for the relevant”</InlineAmendment> insert <InlineAmendment><InlineAmendment>“scheme year or”</InlineAmendment></InlineAmendment> in each place that those words appear;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2026/278/article/19/4/b/made" IdURI="http://www.legislation.gov.uk/id/uksi/2026/278/article/19/4/b" id="article-19-4-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>omit <InlineAmendment>“set out in Annex 8”</InlineAmendment> in each place that those words appear.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2026/278/article/19/5/made" IdURI="http://www.legislation.gov.uk/id/uksi/2026/278/article/19/5" id="article-19-5">
+<Pnumber>5</Pnumber>
+<P2para>
+<Text>After paragraph 2 insert—</Text>
+<BlockAmendment Context="main" Format="double" TargetClass="euretained" TargetSubClass="unknown">
+<P2>
+<Pnumber PuncBefore="" PuncAfter=".">2a</Pnumber>
+<P2para>
+<Text>The factors determined in paragraph 14 must be applied to the preliminary annual number of emission allowances allocated free of charge determined for each sub-installation pursuant to paragraph 2 for the year concerned where that sub-installation is a UK CBAM sub-installation.</Text>
+</P2para>
+</P2>
+<P2>
+<Pnumber PuncBefore="" PuncAfter=".">2b</Pnumber>
+<P2para>
+<Text>Where the sub-installation is not a UK CBAM sub-installation, a factor of 1 must be applied to the preliminary annual number of emission allowances allocated free of charge determined for each sub-installation pursuant to paragraph 2 for the year concerned.</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2026/278/article/19/6/made" IdURI="http://www.legislation.gov.uk/id/uksi/2026/278/article/19/6" id="article-19-6">
+<Pnumber>6</Pnumber>
+<P2para>
+<Text>In paragraph 3 for <InlineAmendment>“pursuant to paragraph 2 of this Article”</InlineAmendment> substitute <InlineAmendment><InlineAmendment>“following the calculation at paragraph 2a or 2b”</InlineAmendment></InlineAmendment>.</Text>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2026/278/article/19/7/made" IdURI="http://www.legislation.gov.uk/id/uksi/2026/278/article/19/7" id="article-19-7">
+<Pnumber>7</Pnumber>
+<P2para>
+<Text>In paragraph 4 after <InlineAmendment>“the factor to be applied”</InlineAmendment> insert <InlineAmendment><InlineAmendment>“to the preliminary annual number of emission allowances allocated free of charge determined for each sub-installation following the calculation at paragraph 2a or 2b”</InlineAmendment></InlineAmendment>.</Text>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2026/278/article/19/8/made" IdURI="http://www.legislation.gov.uk/id/uksi/2026/278/article/19/8" id="article-19-8">
+<Pnumber>8</Pnumber>
+<P2para>
+<Text>In the first sentence of paragraph 5—</Text>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2026/278/article/19/8/a/made" IdURI="http://www.legislation.gov.uk/id/uksi/2026/278/article/19/8/a" id="article-19-8-a">
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>after <InlineAmendment>“for the relevant period”</InlineAmendment> insert <InlineAmendment><InlineAmendment>“scheme year or”</InlineAmendment></InlineAmendment>;</Text>
+</P3para>
+</P3>
+<P3 DocumentURI="http://www.legislation.gov.uk/uksi/2026/278/article/19/8/b/made" IdURI="http://www.legislation.gov.uk/id/uksi/2026/278/article/19/8/b" id="article-19-8-b">
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>omit <InlineAmendment>“set out in Annex 8”</InlineAmendment>.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2 DocumentURI="http://www.legislation.gov.uk/uksi/2026/278/article/19/9/made" IdURI="http://www.legislation.gov.uk/id/uksi/2026/278/article/19/9" id="article-19-9">
+<Pnumber>9</Pnumber>
+<P2para>
+<Text>After paragraph 12 insert—</Text>
+<BlockAmendment Context="main" Format="double" TargetClass="euretained" TargetSubClass="unknown">
+<P2>
+<Pnumber PuncBefore="" PuncAfter=".">13</Pnumber>
+<P2para>
+<Text>In paragraphs 2 and 5, references to a product benchmark, heat benchmark or fuel benchmark are to:</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>for 2026 incumbents within the meaning of article 5 of the Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025<FootnoteRef Ref="f00004"/>, in respect of the calculation of the preliminary annual number of allowances for the 2026 scheme year, the benchmarks set out in Annex 8;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>for incumbent installations applying for free allocation in the 2027-2030 allocation period:</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text>in respect of the calculation of the preliminary annual number of allowances for the 2027 scheme year, the benchmarks set out in Annex 8; and</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text>in respect of the calculation of the preliminary annual number of allowances for the 2028, 2029 and 2030 scheme years, the benchmarks adopted by way of an order under Part 3 of the Climate Change Act 2008<FootnoteRef Ref="f00005"/>.</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber PuncBefore="" PuncAfter=".">14</Pnumber>
+<P2para>
+<Text>The factor to be applied in the 2027-2030 allocation period is:</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>for scheme year 2027, unless otherwise provided for on or before 31 December 2026 by way of an order under Part 3 of the Climate Change Act 2008, 0.975;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>for scheme year 2028, unless otherwise provided for on or before 31 December 2027 by way of an order under Part 3 of the Climate Change Act 2008, 0.95;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text>for scheme year 2029, unless otherwise provided for on or before 31 December 2028 by way of an order under Part 3 of the Climate Change Act 2008, 0.9;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>d</Pnumber>
+<P3para>
+<Text>for scheme year 2030, unless otherwise provided for on or before 31 December 2029 by way of an order under Part 3 of the Climate Change Act 2008, 0.775.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber PuncBefore="" PuncAfter=".">15</Pnumber>
+<P2para>
+<Text>Where the regulator has calculated the preliminary annual number of emissions allowances to be allocated free of charge for each UK CBAM sub-installation and a different factor is subsequently provided for under paragraph 14, the regulator must as soon as reasonably practicable after a different factor for a scheme year is provided for:</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>recalculate the preliminary annual number of emissions allowances allocated free of charge for each UK CBAM sub-installation in respect of the relevant period in accordance with paragraphs 2 to 9;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>send the recalculated preliminary annual number of allowances calculated in respect of each installation and each sub-installation of each installation to the UK ETS authority; and</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>c</Pnumber>
+<P3para>
+<Text>make any corrections to the calculation required by the UK ETS authority.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber PuncBefore="" PuncAfter=".">16</Pnumber>
+<P2para>
+<Text>In paragraph 15 the “relevant period” begins with the scheme year for which the factor has changed under paragraph 14 and ends with the 2030 scheme year; but:</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>where paragraph 1a applies and the scheme year for which the factor has changed is 2027, the relevant period refers to the 2027 scheme year; or</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>where the scheme year for which the factor has changed is 2030, the relevant period refers to the 2030 scheme year.</Text>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber PuncBefore="" PuncAfter=".">17</Pnumber>
+<P2para>
+<Text>Where the product benchmark or the PRODCOM code of the product produced in a sub-installation that is not a UK CBAM sub-installation for the 2027-2030 allocation period is subsequently added to the relevant table in Annex 9, the regulator must carry out a recalculation in respect of the sub-installation as if paragraph 15 applies, except that:</Text>
+<P3>
+<Pnumber>a</Pnumber>
+<P3para>
+<Text>the regulator must carry out the functions listed in paragraph 15 as soon as reasonably practicable after the product benchmark or PRODCOM code is added to the relevant table;</Text>
+</P3para>
+</P3>
+<P3>
+<Pnumber>b</Pnumber>
+<P3para>
+<Text>the relevant period is to be read as beginning with the scheme year after the scheme year in which the product benchmark or PRODCOM code was added to the relevant table in Annex 9 and ending with the 2030 scheme year; but:</Text>
+<P4>
+<Pnumber>i</Pnumber>
+<P4para>
+<Text>where paragraph 1a applies and the scheme year after the scheme year in which the product benchmark or PRODCOM code was added to the relevant table is 2027, the relevant period refers to the 2027 scheme year; or</Text>
+</P4para>
+</P4>
+<P4>
+<Pnumber>ii</Pnumber>
+<P4para>
+<Text>where the scheme year after the scheme year in which the product benchmark or PRODCOM code was added to the relevant table is 2030, the relevant period refers to the 2030 scheme year.</Text>
+</P4para>
+</P4>
+</P3para>
+</P3>
+</P2para>
+</P2>
+<P2>
+<Pnumber PuncBefore="" PuncAfter=".">18</Pnumber>
+<P2para>
+<Text>For the purpose of the regulator calculating (or recalculating where paragraph 15 applies) the preliminary annual number of emissions allowances to be allocated free of charge, the regulator must use the factor provided for under paragraph 14 that is in force at the time the regulator carries out the calculation (or recalculation where paragraph 15 applies).</Text>
+</P2para>
+</P2>
+</BlockAmendment>
+<AppendText>.</AppendText>
+</P2para>
+</P2>
+</P1para>
+</P1></P1group></Part></Body></Secondary><Footnotes><Footnote id="f00004">
+<FootnoteText>
+<Para>
+<Text><Citation URI="http://www.legislation.gov.uk/id/uksi/2025/124" id="c00022" Year="2025" Number="124" Class="UnitedKingdomStatutoryInstrument">S.I. 2025/124</Citation>.</Text>
+</Para>
+</FootnoteText>
+</Footnote><Footnote id="f00005">
+<FootnoteText>
+<Para>
+<Text><Citation URI="http://www.legislation.gov.uk/id/ukpga/2008/27" id="c00023" Year="2008" Number="27" Class="UnitedKingdomPublicGeneralAct">2008 c. 27</Citation>.</Text>
+</Para>
+</FootnoteText>
+</Footnote></Footnotes></Legislation>
