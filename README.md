@@ -67,7 +67,7 @@ npm run build     # production build to dist/
 npm run deploy    # build + deploy to this repo's gh-pages branch
 ```
 
-Before the first deploy, replace `REPO-NAME` in `index.html` with this repository's GitHub Pages path.
+Before the first deploy, check that the URLs in `index.html` match this repository (currently set to `deeper747.github.io/Lost-Revenue-from-CBAM`).
 
 ## License
 
