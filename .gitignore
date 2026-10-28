@@ -1,0 +1,33 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+DoNotUpload/
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.env
+
+# Source PDFs for docs/Extension are kept locally, not in the repo.
+# (docs/EU regulation keeps its PDFs tracked — that convention is unchanged.)
+docs/Extension/*.pdf
+
+# UK trade fetch cache (rebuilt by scripts/fetch_uk_trade.py)
+data/uk/raw/uktradeinfo_cache/

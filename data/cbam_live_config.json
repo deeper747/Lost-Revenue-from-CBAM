@@ -1,0 +1,10 @@
+{
+  "_note": "Each quarter, when the EU Commission publishes the official CBAM certificate price, add one entry to ets_quarterly_prices. No rebuild needed — just save and upload. Everything else the dashboard shows about confirmed prices (how far the confirmed band runs, where the user's own forecast takes over, the slider's starting value) is derived from these entries, so there is nothing else to keep in step. Source: https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/price-cbam-certificates_en",
+  "ets_quarterly_prices": {
+    "2026-Q1": 75.36,
+    "2026-Q2": 75.28,
+    "2026-Q3": 82.32
+  },
+  "_note_uk": "UK CBAM: when HMRC publishes official quarterly CBAM rates (the first, for Q1 2027, is due before the end of 2026), add them to uk_cbam_rates as {\"2027-Q1\": {\"Iron & Steel\": 0.00, \"Aluminum\": 0.00, \"Cement\": 0.00, \"Fertilizers\": 0.00, \"Hydrogen\": 0.00}} in GBP per tCO2e. Sector names must match exactly. A quarter listed here overrides the formula for that quarter; later quarters use the UK price slider. No rebuild needed.",
+  "uk_cbam_rates": {}
+}
